@@ -16,7 +16,7 @@ The thesis focuses on developing a physically interpretable, model-free framewor
 
 ## Citation
 
-If you use this work or refer to the thesis, please cite as: S. Amin, “Model-Free Residual Stress Approximation,” B.Tech Thesis, Dept. of Civil Engineering, IIT Kharagpur, 2024.
+If you use this work or refer to the thesis, please cite as: S. Amin, B. Banerjee, “Model-Free Residual Stress Approximation,” B.Tech Thesis, Dept. of Civil Engineering, IIT Kharagpur, 2024.
 
 ## License
 
