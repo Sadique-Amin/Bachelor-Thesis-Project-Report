@@ -10,11 +10,14 @@ The thesis focuses on developing a physically interpretable, model-free framewor
 
 ## Repository Contents
 
-- `Report.pdf` – Complete thesis report in PDF format.
-- `Figures/` – Figures used in the report.
-- `Code/` – MATLAB scripts for residual energy computation and parameter optimization (if applicable).
+- `Report.pdf` – Complete thesis report in PDF format.  
+- `Code/` – MATLAB scripts for residual energy computation and parameter optimization (available on request).  
 - `README.md` – Project overview and instructions.
 
 ## Citation
 
-If you use this work or refer to the thesis, please cite as:
+If you use this work or refer to the thesis, please cite as: S. Amin, “Model-Free Residual Stress Approximation,” B.Tech Thesis, Dept. of Civil Engineering, IIT Kharagpur, 2024.
+
+## License
+
+This repository is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for details.
